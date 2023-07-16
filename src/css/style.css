@@ -1,0 +1,26 @@
+h1{
+    background-color:green; 
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.button{
+    background-color: green;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-size: 22px;
+    border: none;
+    text-align: center;
+    margin: 10px;
+}
+
+div{
+    text-align: center;
+}
